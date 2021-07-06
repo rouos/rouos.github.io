@@ -9,7 +9,7 @@
 [![](https://img.shields.io/github/stars/qiubaiying/qiubaiying.github.io.svg?style=social&label=Star)](https://github.com/qiubaiying/qiubaiying.github.io)
 [![](https://img.shields.io/github/forks/qiubaiying/qiubaiying.github.io.svg?style=social&label=Fork)](https://github.com/qiubaiying/qiubaiying.github.io)
 
-博客的搭建教程修改自[BY](https://qiubaiying.github.io)
+博客的搭建直接Fork自[BY](https://qiubaiying.github.io)大神。
 
 感谢巨人的肩膀！
 
